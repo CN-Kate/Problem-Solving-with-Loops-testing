@@ -10,6 +10,9 @@ if (num2 >= 150) {
 }
 
 
+
+
+
 //PUZZLE 2: Replace the ??? in the code below so that each number in the array list1 is printed to the console once. 
 
 let list1 = [5, 6, 11, 3];
